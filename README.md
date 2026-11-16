@@ -1,0 +1,2 @@
+# lsor-2026.2-sysdev-atividades-ewertonev
+Activity
